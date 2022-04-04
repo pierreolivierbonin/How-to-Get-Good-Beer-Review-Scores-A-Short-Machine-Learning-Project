@@ -211,3 +211,4 @@ def optimize_floattypes(dataframe, specify="auto"):
     else:
         return False
     return
+
